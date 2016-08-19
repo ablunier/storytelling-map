@@ -1,0 +1,1 @@
+{"version":3,"sources":["assign-new.js"],"names":[],"mappings":";;;;;AAAA,IAAM,YAAY,SAAZ,SAAY;AAAA,oCAAI,IAAJ;AAAI,QAAJ;AAAA;;AAAA,SAAa,OAAO,MAAP,gBAAc,EAAd,SAAqB,IAArB,EAAb;AAAA,CAAlB;;kBAEe,S","file":"assign-new-compiled.js","sourcesContent":["const assignNew = (...args) => Object.assign({}, ...args);\n\nexport default assignNew\n"]}
